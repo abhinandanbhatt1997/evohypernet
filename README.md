@@ -17,6 +17,6 @@ EvoHyperNet is an evolutionary algorithm framework for hyperparameter optimizati
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/evohypernet.git
+git clone https://github.com/abhinandanbhatt1997/evohypernet.git
 cd evohypernet
 pip install -r requirements.txt
